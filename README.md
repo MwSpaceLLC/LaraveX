@@ -1,2 +1,2 @@
 # LaraveX
-ortable Development Server with Nginx, Php7, Composer, Node &amp; MySql
+Portable Development Server with Nginx, Php7, Composer, Node & MySql
